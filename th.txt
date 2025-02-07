@@ -1,0 +1,69 @@
+programming language --> Programming is a set of instruction given to perform a specific task
+
+ex : c , c++ , java
+main()
+
+scripptiing language : srippting language is a subset of programming language
+
+ex : js , python , html
+single line -- code
+
+
+(1)--Statically
+when u take variable u need to take datatype
+
+(2)--dyna,ically
+justfy the statement that java script is dynamically typed language
+
+
+javascript have no datatype
+a = 10
+
+scripptiing : scripptiing language is a subset of programming language
+first line
+
+ex : javascript , python
+browser --> client side
+
+
+History of javascript :
+javascript developed by breden eich by netscap navigator n 1995
+
+
+javascript engins :
+
+browser engine          compnay
+firefox spider monkey   mozilla
+chrome v8               google
+safari nitro            apple
+edge chakra             microsoft  
+
+
+Static page :
+    It will required data types
+
+Dynamic page
+    It wil not required datatype
+
+
+There are three ways to define js.
+1. external js [.js]
+2. internal js <script>
+3. inline js
+
+
+* There is no Data typed
+
+* There are three Keyword
+
+(1) var - global scope
+(2) let - block scope
+(3) const - block scope -- can not chane the value
+
+
+* javascript use ??
+- To manipulate the Dom[Document object model]
+
+{
+    
+}
